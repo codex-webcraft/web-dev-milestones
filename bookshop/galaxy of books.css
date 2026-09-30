@@ -95,9 +95,9 @@
     }
 
     .bookcard {
-       
 
-       
+
+
         padding: 15px;
         background-color: white;
         text-align: left;
@@ -157,8 +157,9 @@
         color: #eb730b;
         font-weight: 400;
     }
+
     .hidebook img {
-        object-position:right;
+        object-position: right;
     }
 
     .card-btn:hover {
@@ -172,7 +173,7 @@
     }
 
     @media(max-width:768px) {
-        
+
 
         .gridbook {
             grid-template-columns: 1fr 1fr;
@@ -182,16 +183,19 @@
 
             padding: 20px 3%;
         }
-        .navbar {
-        
-        padding: 15px 8px;
-        flex-direction: column;
-        justify-content:space-between;
 
-    }
-    .nav-links{
-        gap: 10px;
-    }
-    
+        .navbar {
+
+            padding: 15px 8px;
+            flex-direction: column;
+            justify-content: space-between;
+
+        }
+
+        .nav-links {
+            gap: 15px;
+            font-size: 14px;
+        }
+
 
     }
