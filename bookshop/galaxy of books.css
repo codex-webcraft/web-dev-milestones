@@ -78,7 +78,7 @@
 
     .booksection {
         text-align: center;
-        padding: 10px 12%;
+        padding: 10px 5%;
     }
 
     .gridbook {
@@ -97,7 +97,7 @@
     .bookcard {
        
 
-        /* confusing    or mjy yeh b bhthai k kb mjy heght ,width liknai ki zaroorath nhi*/
+       
         padding: 15px;
         background-color: white;
         text-align: left;
@@ -107,11 +107,8 @@
 
     .bookcard img {
         width: 100%;
-        /* confusing*/
         height: 300px;
-        /* confusing*/
         object-fit: cover;
-        
         border-radius: 10px;
 
     }
